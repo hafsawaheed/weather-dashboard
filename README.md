@@ -1,4 +1,4 @@
-# Atmos Weather Dashboard
+# SkyCloudy Weather Dashboard
 
 A production-oriented weather dashboard built with React 19, Vite, Tailwind CSS, Axios, Framer Motion, Recharts, React Icons, Context API, browser geolocation, and local storage.
 
