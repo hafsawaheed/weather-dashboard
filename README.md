@@ -151,3 +151,7 @@ The included `vercel.json` explicitly identifies the Vite framework. The applica
 ## Portfolio Notes
 
 This repository is intentionally structured to demonstrate separation of concerns: components render, hooks coordinate behavior, contexts own narrow global preferences, and services handle external data. The fallback forecast path is a deliberate reliability feature rather than duplicated UI logic.
+
+## 📌 Deployment Link of this Project
+
+https://weather-dashboard-orpin-chi.vercel.app/
